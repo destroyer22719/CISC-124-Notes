@@ -1,0 +1,8 @@
+- Doc comments are delimited by `/** */`
+- Doc comment written in HTML and made of of 2 parts
+	- description, can use `<p>` to create seperate paragraphs
+	- block tags
+		- `@param`
+		- ``@return`
+		- `@throws`
+- 
