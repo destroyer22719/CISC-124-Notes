@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 6/L2 Enums.md",
+                "file": "Week 5/Equals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 6/L2 Enums.md",
+                "file": "Week 5/Equals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 6/L2 Enums.md",
+                "file": "Week 5/Equals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 6/L2 Enums.md"
+                "file": "Week 5/Equals.md"
               }
             }
           },
@@ -156,8 +156,10 @@
   },
   "active": "a768b0598cc0fc88",
   "lastOpenFiles": [
-    "Week 5/Utility Class.md",
     "Week 5/Javadocs.md",
+    "Week 6/L3 UML Class Diagram.md",
+    "Week 6/L2 Enums.md",
+    "Week 5/Utility Class.md",
     "Week 5/Equals.md",
     "Week 6/L1 Equals Pt 2.md",
     "Week 4/L2 - Interfaces.md",
@@ -197,10 +199,8 @@
     "CISC-124-Notes/Images/Pasted image 20230313174618.png",
     "CISC-124-Notes/Images",
     "CISC-124-Notes",
-    "Week 8/L3 Inheritance.md",
     "Week 8",
     "Week 7",
-    "Week 6/L3 UML Class Diagram.md",
     "Week 6"
   ]
 }

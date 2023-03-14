@@ -53,5 +53,5 @@ c.equals(a); //false
 - Consistency
 	Repeatedly comparing two objects yield the same result assuming the state of the objects do not change
 - Non-nullity
-	`x.equals(null)` is always falls and doesn't throw an exception
+	`x.equals(null)` is always false and doesn't throw an exception
 	

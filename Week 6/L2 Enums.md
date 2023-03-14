@@ -87,5 +87,3 @@ for (Month m : Month.values()) {
 	System.out.println(m + " : " + m.days(2018));  
 }
 ```
-
-
