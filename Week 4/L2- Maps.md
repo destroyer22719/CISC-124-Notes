@@ -1,3 +1,6 @@
+---
+tag: maps
+---
 - Java maps provide similar functionality to Python dictionaries (or JavaScript objects)
 
 ### Main Kinds of Maps

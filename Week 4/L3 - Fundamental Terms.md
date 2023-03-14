@@ -1,3 +1,6 @@
+---
+tag: types, classes
+---
 ### Type
 A type is a set of values and operations that can be performed with those values
 

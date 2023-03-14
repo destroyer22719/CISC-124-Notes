@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 4/L2- Maps.md",
+                "file": "Week 4/L3 - Fundamental Terms.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 4/L2- Maps.md",
+                "file": "Week 4/L3 - Fundamental Terms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 4/L2- Maps.md",
+                "file": "Week 4/L3 - Fundamental Terms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 4/L2- Maps.md"
+                "file": "Week 4/L3 - Fundamental Terms.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "bbd18531388ef9ac",
   "lastOpenFiles": [
+    "Week 4/L2- Maps.md",
     "Week 4/L2 - Interfaces.md",
     "Week 8/L3 Inheritance.md",
     "Week 8/L1 Inheritance.md",
@@ -196,7 +197,6 @@
     "CISC-124-Notes/Week 5/Equals.md",
     "CISC-124-Notes/Week 5",
     "CISC-124-Notes/Week 4/L3 - Fundamental Terms.md",
-    "CISC-124-Notes/Week 4/L2- Maps.md",
     "CISC-124-Notes/Week 4",
     "CISC-124-Notes/Images/Pasted image 20230314005427.png",
     "CISC-124-Notes/Images/Pasted image 20230314003346.png",
