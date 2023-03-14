@@ -11,8 +11,12 @@
             "id": "bbd18531388ef9ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Week 4/L2- Maps.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Week 4/L2- Maps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Week 4/L2- Maps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Week 4/L2- Maps.md"
+              }
             }
           },
           {
@@ -158,21 +165,22 @@
   },
   "active": "bbd18531388ef9ac",
   "lastOpenFiles": [
-    "Note Name.md",
-    "Week 4/L1 - Sets.md",
-    "Week 6/L1 Equals Pt 2.md",
-    "Untitled.canvas",
+    "Week 4/L2 - Interfaces.md",
+    "Week 8/L3 Inheritance.md",
+    "Week 8/L1 Inheritance.md",
+    "Week 6/L3 UML Class Diagram.md",
     "Week 5/Equals.md",
+    "Week 6/L1 Collections as Fields.md",
+    "Week 6/L1 Equals Pt 2.md",
+    "Week 4/L1 - Sets.md",
+    "Note Name.md",
+    "Untitled.canvas",
     "Context",
     "Week 5/Javadocs.md",
-    "Week 6/L3 UML Class Diagram.md",
     "Week 6/L2 Enums.md",
     "Week 5/Utility Class.md",
-    "Week 4/L2 - Interfaces.md",
     "2023-03-14.md",
-    "Week 8/L1 Inheritance.md",
     "Week 7/L1 Interfaces.md",
-    "Week 6/L1 Collections as Fields.md",
     "CISC-124-Notes/Week 8/L3 Inheritance.md",
     "CISC-124-Notes/Week 8/L1 Inheritance.md",
     "CISC-124-Notes/Week 8",
@@ -189,7 +197,6 @@
     "CISC-124-Notes/Week 5",
     "CISC-124-Notes/Week 4/L3 - Fundamental Terms.md",
     "CISC-124-Notes/Week 4/L2- Maps.md",
-    "CISC-124-Notes/Week 4/L2 - Interfaces.md",
     "CISC-124-Notes/Week 4",
     "CISC-124-Notes/Images/Pasted image 20230314005427.png",
     "CISC-124-Notes/Images/Pasted image 20230314003346.png",

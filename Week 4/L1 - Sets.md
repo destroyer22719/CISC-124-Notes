@@ -1,4 +1,4 @@
-!![[Note Name]]---
+---
 tag: sets
 ---
 
