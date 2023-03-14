@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 5/Equals.md",
+                "file": "Week 5/Utility Class.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 5/Equals.md",
+                "file": "Week 5/Utility Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 5/Equals.md",
+                "file": "Week 5/Utility Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 5/Equals.md"
+                "file": "Week 5/Utility Class.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "a768b0598cc0fc88",
   "lastOpenFiles": [
-    "Week 6/L1 Equals Pt 2.md",
+    "Week 5/Javadocs.md",
     "Week 5/Equals.md",
+    "Week 6/L1 Equals Pt 2.md",
     "Week 4/L2 - Interfaces.md",
     "2023-03-14.md",
     "Week 4/L1 - Sets.md",
@@ -210,7 +211,6 @@
     "Week 7",
     "Week 6/L3 UML Class Diagram.md",
     "Week 6/L2 Enums.md",
-    "Week 5/Javadocs.md",
     "Week 6"
   ]
 }
