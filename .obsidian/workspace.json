@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d38e6c5f6b72504e",
+        "id": "67d563dfe2c75a2e",
         "type": "tabs",
         "children": [
           {
-            "id": "9432cfedb7dbdd26",
+            "id": "a768b0598cc0fc88",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Week 5/Equals.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Week 5/Equals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Week 5/Equals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,6 +124,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Week 5/Equals.md"
+              }
+            }
+          },
+          {
+            "id": "172784c1ba9c3382",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           },
@@ -128,16 +144,9 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "172784c1ba9c3382",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -150,16 +159,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false,
+      "periodic-notes:Open this week": false
     }
   },
-  "active": "a3a2ac32545e8a4c",
+  "active": "a768b0598cc0fc88",
   "lastOpenFiles": [
+    "Week 6/L1 Equals Pt 2.md",
+    "Week 5/Equals.md",
+    "Week 4/L2 - Interfaces.md",
     "2023-03-14.md",
+    "Week 4/L1 - Sets.md",
     "Week 8/L1 Inheritance.md",
     "Week 7/L1 Interfaces.md",
     "Week 6/L1 Collections as Fields.md",
-    "Week 6/L1 Equals Pt 2.md",
     "CISC-124-Notes/Week 8/L3 Inheritance.md",
     "CISC-124-Notes/Week 8/L1 Inheritance.md",
     "CISC-124-Notes/Week 8",
@@ -196,10 +210,7 @@
     "Week 7",
     "Week 6/L3 UML Class Diagram.md",
     "Week 6/L2 Enums.md",
-    "Week 5/Equals.md",
-    "Week 4/L1 - Sets.md",
     "Week 5/Javadocs.md",
-    "Week 5/Utility Class.md",
     "Week 6"
   ]
 }

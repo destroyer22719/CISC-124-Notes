@@ -1,3 +1,4 @@
+#interfaces
 - Interfaces are a specification, but not an implentation of an APi
 - Interfaces say what methods and what they promise to do, but doesn't define how they are implemented
 - A class that implements the interface must provide an implementation of every method in the interface

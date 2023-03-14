@@ -1,3 +1,4 @@
+#sets
 - Sets are a collection with no duplicates
 - Java allows devs to use different types of sets, the two main ones are:
 	- [HashSets](https://docs.oracle.com/javase/8/docs/api/java/util/HashSet.html) - Most similar to Python sets

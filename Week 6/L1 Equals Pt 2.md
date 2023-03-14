@@ -2,6 +2,7 @@ The version of `equals` from last week is fine if the class is never used as par
 
 Otherwise we should consider using the version of equals discussed in this lecture
 
+Refer to [[Equals]]
 #### New Things
 
 - Instances of compatible types can be equal
