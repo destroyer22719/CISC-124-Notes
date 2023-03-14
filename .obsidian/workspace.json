@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 4/L3 - Fundamental Terms.md",
+                "file": "Week 5/Utility Class.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa7b42dae6d75172",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Static Factory Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 4/L3 - Fundamental Terms.md",
+                "file": "Week 5/Utility Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 4/L3 - Fundamental Terms.md",
+                "file": "Week 5/Utility Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 4/L3 - Fundamental Terms.md"
+                "file": "Week 5/Utility Class.md"
               }
             }
           },
@@ -165,12 +177,15 @@
   },
   "active": "bbd18531388ef9ac",
   "lastOpenFiles": [
+    "Static Factory Methods.md",
+    "Week 5/Utility Class.md",
+    "Week 5/Equals.md",
+    "Week 4/L3 - Fundamental Terms.md",
     "Week 4/L2- Maps.md",
     "Week 4/L2 - Interfaces.md",
     "Week 8/L3 Inheritance.md",
     "Week 8/L1 Inheritance.md",
     "Week 6/L3 UML Class Diagram.md",
-    "Week 5/Equals.md",
     "Week 6/L1 Collections as Fields.md",
     "Week 6/L1 Equals Pt 2.md",
     "Week 4/L1 - Sets.md",
@@ -179,7 +194,6 @@
     "Context",
     "Week 5/Javadocs.md",
     "Week 6/L2 Enums.md",
-    "Week 5/Utility Class.md",
     "2023-03-14.md",
     "Week 7/L1 Interfaces.md",
     "CISC-124-Notes/Week 8/L3 Inheritance.md",
@@ -194,9 +208,7 @@
     "CISC-124-Notes/Week 6",
     "CISC-124-Notes/Week 5/Utility Class.md",
     "CISC-124-Notes/Week 5/Javadocs.md",
-    "CISC-124-Notes/Week 5/Equals.md",
     "CISC-124-Notes/Week 5",
-    "CISC-124-Notes/Week 4/L3 - Fundamental Terms.md",
     "CISC-124-Notes/Week 4",
     "CISC-124-Notes/Images/Pasted image 20230314005427.png",
     "CISC-124-Notes/Images/Pasted image 20230314003346.png",
