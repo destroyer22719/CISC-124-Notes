@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 5/Utility Class.md",
+                "file": "Week 6/L2 Enums.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 5/Utility Class.md",
+                "file": "Week 6/L2 Enums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 5/Utility Class.md",
+                "file": "Week 6/L2 Enums.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 5/Utility Class.md"
+                "file": "Week 6/L2 Enums.md"
               }
             }
           },
@@ -151,13 +151,12 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false,
-      "periodic-notes:Open this week": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "a768b0598cc0fc88",
   "lastOpenFiles": [
+    "Week 5/Utility Class.md",
     "Week 5/Javadocs.md",
     "Week 5/Equals.md",
     "Week 6/L1 Equals Pt 2.md",
@@ -202,7 +201,6 @@
     "Week 8",
     "Week 7",
     "Week 6/L3 UML Class Diagram.md",
-    "Week 6/L2 Enums.md",
     "Week 6"
   ]
 }

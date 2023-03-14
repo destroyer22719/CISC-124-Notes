@@ -4,8 +4,7 @@ To make it so you can't create an object of the utility class make a private con
 
 ```java
 public class MyUtilityClass {
-	private MyUtilityClass() {
-	}
+	private MyUtilityClass() {}
 }
 ```
 
