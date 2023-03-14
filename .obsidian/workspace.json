@@ -78,20 +78,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0747a456b0b8fd7e",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
-                "staged": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -137,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Week 8/L1 Inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Week 8/L1 Inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Week 8/L1 Inheritance.md"
+              }
             }
           },
           {
@@ -206,8 +198,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,8 +214,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "360c132393f2e029",
+  "active": "8bd7307963953828",
   "lastOpenFiles": [
+    "Week 6/L1 Equals Pt 2.md",
     "CISC-124-Notes/Week 8/L3 Inheritance.md",
     "CISC-124-Notes/Week 8/L1 Inheritance.md",
     "CISC-124-Notes/Week 8",
@@ -264,7 +256,6 @@
     "Week 7",
     "Week 6/L3 UML Class Diagram.md",
     "Week 6/L2 Enums.md",
-    "Week 6/L1 Equals Pt 2.md",
     "Week 5/Equals.md",
     "Week 4/L1 - Sets.md",
     "Week 5/Javadocs.md",
