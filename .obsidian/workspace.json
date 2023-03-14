@@ -83,11 +83,10 @@
             "id": "0747a456b0b8fd7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Week 8/L3 Inheritance.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/plugins/obsidian-git/styles.css",
+                "staged": false
               }
             }
           }
@@ -159,7 +158,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 8/L3 Inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +174,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 8/L3 Inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,18 +195,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Week 8/L3 Inheritance.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "360c132393f2e029",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,7 +223,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7821e88782f06c8c",
+  "active": "0747a456b0b8fd7e",
   "lastOpenFiles": [
     "Week 8/L3 Inheritance.md",
     "Week 8/L1 Inheritance.md",
