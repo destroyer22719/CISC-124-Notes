@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 4/L1 - Sets.md",
+                "file": "Week 6/L1 Equals Pt 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 4/L1 - Sets.md",
+                "file": "Week 6/L1 Equals Pt 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 4/L1 - Sets.md",
+                "file": "Week 6/L1 Equals Pt 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 4/L1 - Sets.md"
+                "file": "Week 6/L1 Equals Pt 2.md"
               }
             }
           },
@@ -165,15 +165,15 @@
   },
   "active": "aa7b42dae6d75172",
   "lastOpenFiles": [
+    "Week 5/Utility Class.md",
+    "Week 7/Static Factory Methods.md",
+    "Week 5/Equals.md",
+    "Week 4/L1 - Sets.md",
     "Week 4/L2 - Interfaces.md",
     "Week 4/L2- Maps.md",
-    "Week 4/L1 - Sets.md",
     "Untitled.canvas",
-    "Week 7/Static Factory Methods.md",
     "Note Name.md",
     "Week 8/Week 8.md",
-    "Week 5/Utility Class.md",
-    "Week 5/Equals.md",
     "Week 4/L3 - Fundamental Terms.md",
     "Week 8/L3 Inheritance.md",
     "Week 8/L1 Inheritance.md",
