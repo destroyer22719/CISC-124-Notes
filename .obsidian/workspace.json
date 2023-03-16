@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 6/L1 Equals Pt 2.md",
+                "file": "Week 7/L1 Interfaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 6/L1 Equals Pt 2.md",
+                "file": "Week 7/L1 Interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 6/L1 Equals Pt 2.md",
+                "file": "Week 7/L1 Interfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 6/L1 Equals Pt 2.md"
+                "file": "Week 7/L1 Interfaces.md"
               }
             }
           },
@@ -165,6 +165,10 @@
   },
   "active": "aa7b42dae6d75172",
   "lastOpenFiles": [
+    "Week 8/Week 8.md",
+    "Week 8/L3 Inheritance.md",
+    "Week 8/L1 Inheritance.md",
+    "Week 6/L1 Equals Pt 2.md",
     "Week 5/Utility Class.md",
     "Week 7/Static Factory Methods.md",
     "Week 5/Equals.md",
@@ -173,13 +177,9 @@
     "Week 4/L2- Maps.md",
     "Untitled.canvas",
     "Note Name.md",
-    "Week 8/Week 8.md",
     "Week 4/L3 - Fundamental Terms.md",
-    "Week 8/L3 Inheritance.md",
-    "Week 8/L1 Inheritance.md",
     "Week 6/L3 UML Class Diagram.md",
     "Week 6/L1 Collections as Fields.md",
-    "Week 6/L1 Equals Pt 2.md",
     "Context",
     "Week 5/Javadocs.md",
     "Week 6/L2 Enums.md",
