@@ -75,3 +75,5 @@ If `Sub` is a subtype of `Super` then the array type `Sub[]` is a subtype of the
 
 **Generics are Invariants**
 For any 2 distincts types `T1` and `T2`, `List<T1>` is neither a subtype nor supertype of `List<T2>`
+
+See [this](https://www.javacodegeeks.com/2019/04/variance-java.html) article about covariant and invariant
