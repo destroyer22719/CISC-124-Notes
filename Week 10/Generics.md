@@ -26,3 +26,49 @@ public class Pair<T1, T2> {
 	public T2 b;
 }
 ```
+
+## Generic Stack Class
+```java
+import java.util.Arrays;  
+import java.util.EmptyStackException;  
+public class ArrayStack<E> {  
+	// the initial capacity of the stack  
+	private static final int DEFAULT_CAPACITY = 16;  
+	// the array that stores the stack  
+	private E[] stack;  
+	// the index of the top of the stack  
+	private int topIndex;  
+	/*
+	* Create an empty stack.  
+	*/  
+	public ArrayStack() {  
+		this.stack = new E[Stack.DEFAULT_CAPACITY]; // <-- This is NOT allowed
+		this.topIndex = -1;
+	}
+}
+```
+We CANNOT create an array of our generic! The solution is to make an array of Object.
+
+```java
+import java.util.Arrays;  
+import java.util.EmptyStackException;  
+public class ArrayStack<E> {  
+	// the initial capacity of the stack  
+	private static final int DEFAULT_CAPACITY = 16;  
+	// the array that stores the stack  
+	private Object[] stack;  
+	// the index of the top of the stack  
+	private int topIndex;
+	
+	/*
+	* Create an empty stack.  
+	*/  
+	public ArrayStack() {  
+		this.stack = new Object[Stack.DEFAULT_CAPACITY];  
+		this.topIndex = -1
+	}
+}
+```
+
+**Arrays are Covariant**
+If `Sub` is a subtype of `Super` then the array type `Sub[]` is a subtype of the array type `Super[]`
