@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sets",
+                "query": "Covariant",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,12 +86,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "059d5eaa655a2812",
@@ -177,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6b137039a1499fb",
+  "active": "7f26e73c8fcdcf2b",
   "lastOpenFiles": [
     "Week 7/L1 Interfaces.md",
     "Week 10/Generics.md",

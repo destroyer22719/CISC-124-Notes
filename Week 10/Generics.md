@@ -72,3 +72,6 @@ public class ArrayStack<E> {
 
 **Arrays are Covariant**
 If `Sub` is a subtype of `Super` then the array type `Sub[]` is a subtype of the array type `Super[]`
+
+**Generics are Invariants**
+For any 2 distincts types `T1` and `T2`, `List<T1>` is neither a subtype nor supertype of `List<T2>`
