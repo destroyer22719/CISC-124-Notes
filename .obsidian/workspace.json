@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "306a764ed824bdcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 10/Generics Part 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 10/Generics.md",
+                "file": "Week 10/Generics Part 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 10/Generics.md",
+                "file": "Week 10/Generics Part 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 10/Generics.md"
+                "file": "Week 10/Generics Part 3.md"
               }
             }
           },
@@ -177,10 +188,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46a65640666baf0b",
+  "active": "306a764ed824bdcb",
   "lastOpenFiles": [
-    "Week 7/L1 Interfaces.md",
     "Week 10/Generics.md",
+    "Week 10/Generics Part 3.md",
+    "Week 7/L1 Interfaces.md",
     ".md",
     "Week 10",
     "Week 8/Week 8.md",
@@ -210,7 +222,6 @@
     "CISC-124-Notes/Week 6/L3 UML Class Diagram.md",
     "CISC-124-Notes/Week 6/L2 Enums.md",
     "CISC-124-Notes/Week 6/L1 Equals Pt 2.md",
-    "CISC-124-Notes/Week 6/L1 Collections as Fields.md",
     "CISC-124-Notes/Week 6",
     "CISC-124-Notes/Week 5",
     "CISC-124-Notes/Week 4",
