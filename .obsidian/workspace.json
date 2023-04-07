@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 10/Generics.md",
+                "file": "Past Exams/2022 Fall.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 10/Generics.md",
+                "file": "Past Exams/2022 Fall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 10/Generics.md",
+                "file": "Past Exams/2022 Fall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 10/Generics.md"
+                "file": "Past Exams/2022 Fall.md"
               }
             }
           },
@@ -203,10 +202,10 @@
   },
   "active": "91d326d6dbb46ea9",
   "lastOpenFiles": [
-    "2022 Fall.md",
+    "Week 10/Generics.md",
+    "Past Exams/2022 Fall.md",
     "Week 7/L1 Interfaces.md",
     "Past Exams",
-    "Week 10/Generics.md",
     "Week 10/Generics Part 3.md",
     ".md",
     "Week 10",
