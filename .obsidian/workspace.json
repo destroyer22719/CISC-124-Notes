@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,7 +188,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "306a764ed824bdcb",
+  "active": "a6b137039a1499fb",
   "lastOpenFiles": [
     "Week 10/Generics.md",
     "Week 10/Generics Part 3.md",
