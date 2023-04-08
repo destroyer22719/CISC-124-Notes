@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "059d5eaa655a2812",
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 6/L1 Equals Pt 2.md",
+                "file": "Past Exams/2022 Fall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 6/L1 Equals Pt 2.md",
+                "file": "Past Exams/2022 Fall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 6/L1 Equals Pt 2.md"
+                "file": "Past Exams/2022 Fall.md"
               }
             }
           },
@@ -196,11 +197,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 347.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,13 +214,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "184f8c2d0c2368a0",
+  "active": "360c132393f2e029",
   "lastOpenFiles": [
-    "Past Exams/2022 Fall.md",
-    "Week 6/L3 UML Class Diagram.md",
     "Week 5/Equals.md",
-    "Week 4/L1 - Sets.md",
+    "Week 6/L3 UML Class Diagram.md",
     "Week 6/L1 Equals Pt 2.md",
+    "Past Exams/2022 Fall.md",
+    "Week 4/L1 - Sets.md",
     "Week 10/Generics.md",
     "Week 10/Generics Part 3.md",
     "Week 7/L1 Interfaces.md",
