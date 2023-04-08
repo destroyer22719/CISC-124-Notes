@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Past Exams/2022 Fall.md",
+                "file": "Week 10/Generics.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Past Exams/2022 Fall.md",
+                "file": "Week 10/Generics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Past Exams/2022 Fall.md",
+                "file": "Week 10/Generics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Past Exams/2022 Fall.md"
+                "file": "Week 10/Generics.md"
               }
             }
           },
@@ -165,14 +165,14 @@
   },
   "active": "c85a14d46f705264",
   "lastOpenFiles": [
+    "Week 10/Generics Part 3.md",
+    "Past Exams/2022 Fall.md",
     "Week 6/L1 Equals Pt 2.md",
     "Week 4/L3 - Fundamental Terms.md",
-    "Past Exams/2022 Fall.md",
     "Week 6/L3 UML Class Diagram.md",
     "Week 5/Equals.md",
     "Week 4/L1 - Sets.md",
     "Week 10/Generics.md",
-    "Week 10/Generics Part 3.md",
     "Week 7/L1 Interfaces.md",
     "Past Exams",
     ".md",
