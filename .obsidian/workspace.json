@@ -123,12 +123,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "059d5eaa655a2812",
@@ -214,10 +213,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "360c132393f2e029",
+  "active": "c25a7647674220a4",
   "lastOpenFiles": [
-    "Week 5/Equals.md",
     "Week 6/L3 UML Class Diagram.md",
+    "Week 5/Equals.md",
     "Week 6/L1 Equals Pt 2.md",
     "Past Exams/2022 Fall.md",
     "Week 4/L1 - Sets.md",
