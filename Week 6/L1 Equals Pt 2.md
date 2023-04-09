@@ -58,3 +58,12 @@ Java.lang.Double
 //...
 return Double.compare(x, y)
 ```
+
+```java
+public void retain(Predicate<E> pred) {
+	Node curr = this.top;
+	while(true) {
+		if (!)
+	}
+}
+```
