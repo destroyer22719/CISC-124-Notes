@@ -66,8 +66,11 @@ public void retain(Predicate<E> pred) {
 		if (!curr.next) {
 			return;
 		}
-		if (!pred.test(curr)) {
-			
+		if (!pred.test(curr.next)) {
+			Node validNode;
+			while(true) {
+				if (!curr.)
+			}
 		}
 	}
 }
