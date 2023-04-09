@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "constructor",
+                "query": "precondition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf9c5934084f0ebc",
+  "active": "7f26e73c8fcdcf2b",
   "lastOpenFiles": [
     "Past Exams/2022 Fall.md",
     "Past Exams/2021 Fall.md",
