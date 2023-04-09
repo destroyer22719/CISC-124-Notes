@@ -63,7 +63,12 @@ return Double.compare(x, y)
 public void retain(Predicate<E> pred) {
 	Node curr = this.top;
 	while(true) {
-		if (!)
+		if (!curr.next) {
+			return;
+		}
+		if (!pred.test(curr)) {
+			
+		}
 	}
 }
 ```
