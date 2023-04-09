@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "09f5a69f29b92712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 5/Equals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "liskov",
+                "query": "Double.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Past Exams/2021 Fall.md",
+                "file": "Week 5/Equals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Past Exams/2021 Fall.md",
+                "file": "Week 5/Equals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Past Exams/2021 Fall.md"
+                "file": "Week 5/Equals.md"
               }
             }
           },
@@ -164,10 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f26e73c8fcdcf2b",
+  "active": "09f5a69f29b92712",
   "lastOpenFiles": [
-    "Past Exams/2022 Fall.md",
     "Past Exams/2021 Fall.md",
+    "Past Exams/2022 Fall.md",
     "Week 10/Generics.md",
     "Week 10/Generics Part 3.md",
     "Week 6/L1 Equals Pt 2.md",
