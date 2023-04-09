@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c85a14d46f705264",
+            "id": "bf9c5934084f0ebc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Past Exams/2022 Fall.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe9878cea29da387",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Past Exams/2022 Fall.md",
+                "file": "Past Exams/2021 Fall.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Past Exams/2022 Fall.md",
+                "file": "Past Exams/2021 Fall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Past Exams/2022 Fall.md",
+                "file": "Past Exams/2021 Fall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Past Exams/2022 Fall.md"
+                "file": "Past Exams/2021 Fall.md"
               }
             }
           },
@@ -177,9 +163,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6b137039a1499fb",
+  "active": "bf9c5934084f0ebc",
   "lastOpenFiles": [
     "Past Exams/2022 Fall.md",
+    "Past Exams/2021 Fall.md",
     "Week 10/Generics.md",
     "Week 10/Generics Part 3.md",
     "Week 6/L1 Equals Pt 2.md",
@@ -211,7 +198,6 @@
     "CISC-124-Notes/Week 7/L1 Interfaces.md",
     "CISC-124-Notes/Week 7",
     "CISC-124-Notes/Week 6/L3 UML Class Diagram.md",
-    "CISC-124-Notes/Week 6/L2 Enums.md",
     "CISC-124-Notes/Week 6",
     "CISC-124-Notes/Week 5",
     "CISC-124-Notes/Week 4",
