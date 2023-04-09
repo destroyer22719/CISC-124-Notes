@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 6/L1 Equals Pt 2.md",
+                "file": "Past Exams/2021 Fall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 6/L1 Equals Pt 2.md",
+                "file": "Past Exams/2021 Fall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 6/L1 Equals Pt 2.md"
+                "file": "Past Exams/2021 Fall.md"
               }
             }
           },
@@ -178,10 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09f5a69f29b92712",
+  "active": "bf9c5934084f0ebc",
   "lastOpenFiles": [
-    "Past Exams/2021 Fall.md",
     "Week 6/L1 Equals Pt 2.md",
+    "Past Exams/2021 Fall.md",
     "Past Exams/2022 Fall.md",
     "Week 5/Equals.md",
     "Week 10/Generics.md",
