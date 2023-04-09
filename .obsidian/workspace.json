@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "precondition",
+                "query": "liskov",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
