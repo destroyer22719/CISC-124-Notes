@@ -86,12 +86,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "059d5eaa655a2812",
@@ -177,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09f5a69f29b92712",
+  "active": "a6b137039a1499fb",
   "lastOpenFiles": [
     "Past Exams/2021 Fall.md",
     "Week 6/L1 Equals Pt 2.md",
