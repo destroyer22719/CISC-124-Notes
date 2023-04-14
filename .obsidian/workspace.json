@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pred",
+                "query": "Liskov",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6b137039a1499fb",
+  "active": "7f26e73c8fcdcf2b",
   "lastOpenFiles": [
     "Past Exams/Review.md",
     "Past Exams/2022 Fall.md",
