@@ -113,7 +113,18 @@ public int indexOf(Object o) {
 
 public void moveAllToEnd(Object o) {
 	if (!(o isintanceof Node<E>)) {
-	
+		throw new IllegalArguementException()
 	}
+
+	Node<E> target = (Node<E>) o;
+	Node<E> temp = this.tail;
+	Node<E> curr = this.head;
+
+	while (curr != null) {
+		if (curr.elem == target.elem) {
+		
+		}
+	}
+
 }
 ```
