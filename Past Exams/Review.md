@@ -74,3 +74,14 @@ void brighter() {
 ```
 
 # Q3
+
+```java
+public int indOf(Object o) {
+	int currIndex = 0;
+	Node<E> curr = this.head;
+
+	while(curr != null) {
+		if (currIndex != )
+	}
+}
+```
