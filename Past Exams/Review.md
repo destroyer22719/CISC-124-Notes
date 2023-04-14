@@ -102,8 +102,7 @@ private int search(Node<E> target, Node<E> curr, int index) {
 	} else if (target.elem == curr.elem) {
 		return -1;
 	}
-
-	r
+	return search(target, curr.next, index++)
 }
 
 public int indexOf(Object o) {
@@ -112,5 +111,9 @@ public int indexOf(Object o) {
 	}
 }
 
-
+public void moveAllToEnd(Object o) {
+	if (!(o isintanceof Node<E>)) {
+	
+	}
+}
 ```
