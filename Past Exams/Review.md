@@ -122,7 +122,11 @@ public void moveAllToEnd(Object o) {
 
 	while (curr != null) {
 		if (curr.elem == target.elem) {
-		
+			curr.next = curr.next.next;
+			temp.next = curr;
+			temp = temp.next;
+		} else {
+			curr = curr.next;
 		}
 	}
 
