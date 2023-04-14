@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 6/L1 Equals Pt 2.md",
+                "file": "Past Exams/Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 6/L1 Equals Pt 2.md",
+                "file": "Past Exams/Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 6/L1 Equals Pt 2.md",
+                "file": "Past Exams/Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 6/L1 Equals Pt 2.md"
+                "file": "Past Exams/Review.md"
               }
             }
           },
@@ -164,13 +163,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f26e73c8fcdcf2b",
+  "active": "5f102966c14d3627",
   "lastOpenFiles": [
+    "Week 6/L1 Equals Pt 2.md",
     "Past Exams/Review.md",
     "Past Exams/2022 Fall.md",
     "Week 6/L3 UML Class Diagram.md",
     "Past Exams/2021 Fall.md",
-    "Week 6/L1 Equals Pt 2.md",
     "Week 5/Equals.md",
     "Week 10/Generics.md",
     "Week 10/Generics Part 3.md",
