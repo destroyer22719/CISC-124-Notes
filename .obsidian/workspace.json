@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 6/L3 UML Class Diagram.md",
+                "file": "Past Exams/2021 Fall.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dependency",
+                "query": "Double.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 6/L3 UML Class Diagram.md",
+                "file": "Past Exams/2021 Fall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 6/L3 UML Class Diagram.md",
+                "file": "Past Exams/2021 Fall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 6/L3 UML Class Diagram.md"
+                "file": "Past Exams/2021 Fall.md"
               }
             }
           },
@@ -166,10 +166,10 @@
   },
   "active": "5f102966c14d3627",
   "lastOpenFiles": [
+    "Week 6/L3 UML Class Diagram.md",
     "Past Exams/Review.md",
     "Week 6/L1 Equals Pt 2.md",
     "Past Exams/2022 Fall.md",
-    "Week 6/L3 UML Class Diagram.md",
     "Past Exams/2021 Fall.md",
     "Week 5/Equals.md",
     "Week 10/Generics.md",
