@@ -6,7 +6,11 @@ c represents the amount of times the constructor got instantiated
 ## B
 Because it's a static field
 ## C
+
+**Wrong**
 The error in the floating point arithmetics
+**Right**
+Unit in the last place, the distance between two adjacent floating-point values.
 ## D
 That the count can never be below zero
 ## E
