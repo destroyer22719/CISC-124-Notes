@@ -97,9 +97,9 @@ public int indOf(Object o) {
 }
 
 private int search(Node<E> target, Node<E> curr, int index) {
-	if (node  {
+	if (node.elem == target.elem)  {
 		return index;
-	} else if (target.elem == curr.elem) {
+	} else if (curr == null) {
 		return -1;
 	}
 	return search(target, curr.next, index++)
