@@ -56,4 +56,21 @@ DimmableLight(Brightness b) {
 		super(false);
 	}
 }
+
+@Override
+public void off() {
+	this.level = 0;
+}
+
+@Override
+public void on() {
+	this.level = 100;
+}
+
+void brighter() {
+	if (this.level >= 100) return;
+	this.level++;
+}
 ```
+
+# Q3
