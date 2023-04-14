@@ -77,11 +77,40 @@ void brighter() {
 
 ```java
 public int indOf(Object o) {
+	if (!(o isintanceof Node<E>)) {
+		throw new IllegalArguementException();
+	}
+	
+
 	int currIndex = 0;
 	Node<E> curr = this.head;
-
+	Node<E> target = (Node<E>) o;
 	while(curr != null) {
-		if (currIndex != )
+		if (c.elem == o.elem) {
+			return currIndex;
+		}
+		currIndex++;
+		curr = curr.next;
+	}
+
+	return -1;
+}
+
+private int search(Node<E> target, Node<E> curr, int index) {
+	if (node  {
+		return index;
+	} else if (target.elem == curr.elem) {
+		return -1;
+	}
+
+	r
+}
+
+public int indexOf(Object o) {
+	if (!(o isintanceof Node<E>)) {
+		throw new IllegalArguementException();
 	}
 }
+
+
 ```
