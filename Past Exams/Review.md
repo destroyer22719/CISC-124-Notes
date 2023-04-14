@@ -36,6 +36,24 @@ No, type `Object` doesn't have the method of `toUpperCase()`;
 ## M
 Because you can only use binary search on a sorted list of data while linked lists don't have to be
 
-## N
+## N ?
 O(N)
 
+```java
+
+```
+
+# Q2
+```java
+DimmableLight() {
+	super()
+}
+
+DimmableLight(Brightness b) {
+	if (b.getLevel() > 0) {
+		super(true)
+	} else {
+		super(false);
+	}
+}
+```
